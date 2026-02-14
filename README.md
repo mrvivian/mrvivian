@@ -1,6 +1,16 @@
+**Process Automation Engineer | SQL, Power BI, Python
+.
 # Hi, I'm Vivian
 
 I'm a **Process Automation Engineer** based in Belfast, Northern Ireland. I've been working in the industry for about 15 years, and I spend most of my time figuring out how to make repetitive tasks disappear and turn manual processes into automated workflows.
+
+## Featured project
+
+**[ETL Customer Sales Demo](https://github.com/mrvivian/ETL_CustomerSales_Demo)** – End-to-end pipeline: extract customer and sales data, clean and validate, load to a destination database.
+
+- Shows the full flow (extract → transform → load) with real data quality checks
+- Demonstrates SSIS and SQL Server in a portfolio-friendly, runnable format
+- Illustrates how I design pipelines that are maintainable and auditable
 
 ## What I Actually Do
 
@@ -12,7 +22,7 @@ If you're wondering what a Process Automation Engineer does - I build systems th
 - Integrating AI tools into business workflows (when it makes sense)
 - Taking something that takes hours and making it take minutes
 
-I work mostly with Python, C#, SQL, and Power BI. Sometimes I build web apps with Flask when I need a quick interface for something.
+I work mostly with SQL, Power BI and Python.
 
 ## Some Things I've Built
 
@@ -53,7 +63,9 @@ Currently focused on:
 
 ## Get in Touch
 
-Feel free to reach out if you want to chat about automation, data pipelines, or if you've got an interesting problem to solve.
+## Get in Touch
+
+Open to freelance and contract work. Reach out if you'd like to chat.
 
 - **Website:** [www.mrvivian.com](http://www.mrvivian.com)
 - **LinkedIn:** [linkedin.com/in/vivianferguson](https://www.linkedin.com/in/vivianferguson)
@@ -62,3 +74,4 @@ Feel free to reach out if you want to chat about automation, data pipelines, or 
 ---
 
 *Most of my work is about making things easier for people. If I can automate it, I probably will.*
+
