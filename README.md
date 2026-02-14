@@ -1,4 +1,4 @@
-**Process Automation Engineer | SQL, Power BI, Python
+Process Automation Engineer | SQL, Power BI, Python
 .
 # Hi, I'm Vivian
 
@@ -74,4 +74,5 @@ Open to freelance and contract work. Reach out if you'd like to chat.
 ---
 
 *Most of my work is about making things easier for people. If I can automate it, I probably will.*
+
 
